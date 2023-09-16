@@ -9,7 +9,7 @@ Installation
 Usage
 Contributing
 License
-**Introduction**
+**Introduction:**
 The Student Result Management System is designed to streamline the process of managing and tracking student's results in educational institutions. The application provides a user-friendly graphical interface for administrators, teachers, and students to perform various tasks related to academic results.
 
 Key functionalities include:
@@ -57,17 +57,17 @@ Build the project in your IDE to compile the Java source code.
 Run the application from the main class (e.g., MainApp.java).
 The Student Result Management System application window should now open, and you can access the various features based on your user role (administrator, teacher, student).
 
-**Usage**
+**Usage:**
 As an administrator, you can log in with your credentials and manage student records, courses, subjects, and generate reports.
 
 As a teacher, you can log in with your credentials and enter/update student scores, generate class-wise or subject-wise reports.
 
 As a student, you can log in with your credentials and view your results, attendance, and other academic information.
 
-**Contributing**
+**Contributing:**
 We welcome contributions to the Student Result Management System project. If you find any bugs or have ideas for improvements, please feel free to open an issue or submit a pull request with your changes.
 
 Please ensure to follow the code of conduct and guidelines for contributing.
 
-**License**
+**License:**
 The Student Result Management System is open-source and distributed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
