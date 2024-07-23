@@ -13,6 +13,15 @@ License
 The Student Result Management System is designed to streamline the process of managing and tracking student's results in educational institutions. The application provides a user-friendly graphical interface for administrators, teachers, and students to perform various tasks related to academic results.
 
 Key functionalities include:
+FUNCTIONALITIES:-
+1.The admin should login into the system with unique her/his username and password.
+2.If the user name and password are valid then admin can gain access to the system.
+3.Admin can Add New Student.
+4.Admin can enter Marks of the registered Students.
+5.Admin can see all registered students.
+6.Admin can see all registered students result at same time.
+4.Student views Results by entering their Roll number.
+
 
 Administrator Features: Manage user accounts, courses, subjects, student records, and generate reports.
 Teacher Features: Enter and update student scores, generate class-wise or subject-wise reports.
@@ -44,7 +53,7 @@ Clone or download the project from the repository.
 Install and configure MySQL (or any other preferred database).
 Create a new database for the application.
 Import the database schema and data from the provided SQL file.
-Open the project in your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA).
+Open the project in your preferred Java IDE ( IntelliJ IDEA).
 
 Configure the database connection:
 
